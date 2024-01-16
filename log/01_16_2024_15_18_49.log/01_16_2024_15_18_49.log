@@ -1,0 +1,15 @@
+[2024-01-16 15:18:57,691] 96 werkzeug -INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.5:8080
+[2024-01-16 15:18:57,691] 96 werkzeug -INFO [33mPress CTRL+C to quit[0m
+[2024-01-16 15:22:20,762] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:20] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:20,848] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-01-16 15:22:37,997] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:37] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:38,787] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:38] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:39,102] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:39] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:39,278] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:39] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:39,459] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:39] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:39,631] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:39] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:39,817] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:39] "GET / HTTP/1.1" 200 -
+[2024-01-16 15:22:40,099] 96 werkzeug -INFO 127.0.0.1 - - [16/Jan/2024 15:22:40] "GET / HTTP/1.1" 200 -
